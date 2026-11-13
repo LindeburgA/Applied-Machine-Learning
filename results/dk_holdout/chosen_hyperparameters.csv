@@ -1,0 +1,7 @@
+test_season,model,val_pr_auc,n_train,clf__C,clf__max_features,clf__min_samples_leaf,clf__learning_rate,clf__max_leaf_nodes
+2024,logistic,0.803,818,0.01,,,,
+2024,random_forest,0.804,818,,sqrt,50.0,,
+2024,gradient_boosting,0.804,818,,,20.0,0.03,7.0
+2025,logistic,0.612,890,0.1,,,,
+2025,random_forest,0.64,890,,sqrt,50.0,,
+2025,gradient_boosting,0.629,890,,,50.0,0.03,7.0

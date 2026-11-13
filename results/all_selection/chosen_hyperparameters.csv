@@ -1,0 +1,13 @@
+test_season,model,val_pr_auc,n_train,clf__C,clf__max_features,clf__min_samples_leaf,clf__learning_rate,clf__max_leaf_nodes
+2020,logistic,0.751,2574,0.01,,,,
+2020,random_forest,0.752,2574,,sqrt,50.0,,
+2020,gradient_boosting,0.71,2574,,,20.0,0.03,7.0
+2021,logistic,0.774,3021,1.0,,,,
+2021,random_forest,0.784,3021,,sqrt,20.0,,
+2021,gradient_boosting,0.804,3021,,,50.0,0.1,7.0
+2022,logistic,0.734,3471,0.1,,,,
+2022,random_forest,0.7,3471,,sqrt,20.0,,
+2022,gradient_boosting,0.721,3471,,,50.0,0.03,7.0
+2023,logistic,0.773,3920,1.0,,,,
+2023,random_forest,0.812,3920,,sqrt,50.0,,
+2023,gradient_boosting,0.728,3920,,,20.0,0.03,15.0

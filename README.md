@@ -1,5 +1,7 @@
 # Spilletid for unge Superliga-spillere
 
+Projektgruppens samlede tabeller og figurer ligger i [resultaterne](results/README.md).
+
 Python-projekt til at forudsige, om en spiller på 17–21 år får mindst 30 % af sin klubs **registrerede ligaminutter i grundspillet** i den kommende sæson. Hver forudsigelse bruger oplysninger, som var tilgængelige før 1. juli. Projektet bygger på beslutningerne i den tilhørende Decision Log, men rådata dækker ikke Superligaens slutspil, så målvariablen er smallere end den oprindelige formulering om hele sæsonen.
 
 ## Vigtig dataafgrænsning
